@@ -1,0 +1,13 @@
+.dws {
+	position: absolute
+	top: 50%;
+	left: 10%; 
+}
+.butt {
+	border: 3px solid #218294;
+	font-size: 38px;
+	color: #218294;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+	
